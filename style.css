@@ -1,0 +1,102 @@
+body {
+    background-image: url(background.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    border-radius: 4px;
+
+}
+
+footer {
+    text-align: center;
+}
+
+hr {
+    background-color: rgb(68, 255, 47);
+
+}
+h6{
+    display: inline-block;
+    margin: 0%;
+    margin-top: 50px;
+}
+.container {
+    width: auto;
+    background-color: #58585890;
+    padding: 100px;
+    margin: 100px;
+    border-radius: 15px;
+}
+
+.logo {
+    text-align: center;
+
+
+}
+
+.nav {
+    text-align: center;
+    background-color: rgb(68, 255, 47);
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.descrizione-monopattino {
+    font-size: 20px;
+}
+
+
+.main {
+    padding: 4px;
+    color: white;
+    font-size: 40px;
+
+}
+
+.button {
+    padding: 5px;
+
+}
+
+#logo-text {
+    text-align: center;
+    color: rgb(68, 255, 47);
+
+    font-size: 40px;
+}
+
+
+
+#carica1 {
+    background-color: rgb(68, 255, 47);
+    width: 700px;
+    height: 20px;
+
+}
+
+#carica2 {
+    background-color: rgb(226, 255, 10);
+    width: 400px;
+    height: 20px;
+
+}
+
+#carica3 {
+    background-color: rgb(255, 51, 10);
+    width: 200px;
+    height: 20px;
+
+}
+
+#cognome {
+    font-size: 20px;
+
+}
+
+.arrow {
+    padding-right: 20px;
+
+}
